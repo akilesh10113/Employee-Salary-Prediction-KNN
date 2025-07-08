@@ -33,7 +33,8 @@ This is a binary classification problem.
 The KNN model achieved an accuracy of **79.96%** on the test dataset.
 
 ## 📸 Sample Output
-<img width="400" alt="KNN" src="https://github.com/user-attachments/assets/8b36f8fc-7707-4cf4-b89c-51b0894872de" />
+![KNN Result](<img width="800" alt="KNN" src="https://github.com/user-attachments/assets/f0ed05f5-fc6f-455c-94a6-8f1879365841" />
+)
 
 
 ## 🚀 How to Run
