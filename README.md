@@ -1,2 +1,42 @@
-# Employee-Salary-Prediction-KNN
-A Python project demonstrating the implementation of the K-Nearest Neighbors (KNN) classification algorithm to predict whether an employee’s salary exceeds 50K based on features like age, education, capital gain, and hours worked per week. Includes model training, prediction on custom inputs, confusion matrix evaluation, and accuracy measurement.
+# 🧠 Predicting Employee Salary Classification Using K-Nearest Neighbors (KNN)
+
+This project uses a K-Nearest Neighbors (KNN) classification model to predict whether an employee will earn a salary above 50K based on various features such as Age, Education, Capital Gain, and Hours Worked per Week.
+
+## 📊 Dataset
+
+The dataset includes:
+- **Age**: Employee's age
+- **Education**: Level of education
+- **Capital Gain**: Capital gain amount
+- **Hours per Week**: Hours worked per week
+- **Salary**: Whether salary exceeds 50K (1 = Yes, 0 = No)
+
+This is a binary classification problem.
+
+## 🧰 Libraries Used
+- Python 3.x
+- pandas
+- numpy
+- matplotlib
+- scikit-learn (sklearn)
+
+## ⚙️ Project Steps
+- Data preprocessing and exploration  
+- Feature scaling using **StandardScaler**
+- Train-Test split  
+- Fitting KNN classification model  
+- Predicting outcomes for test data  
+- Confusion matrix and accuracy evaluation  
+- Predicting salary category based on new employee inputs  
+
+## ✅ Model Accuracy
+The KNN model achieved an accuracy of **79.96%** on the test dataset.
+
+## 📸 Sample Output
+<img width="400" alt="KNN" src="https://github.com/user-attachments/assets/8b36f8fc-7707-4cf4-b89c-51b0894872de" />
+
+
+## 🚀 How to Run
+Clone the repo or download files
+Open the Jupyter notebook: Logistic_Regression_DigitalAd.ipynb
+Run all cells step-by-step
